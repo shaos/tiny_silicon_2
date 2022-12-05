@@ -1,5 +1,9 @@
 # Tiny User Project
 
+This design implements this [Wokwi](https://wokwi.com/projects/350175937959035475)
+
+![image](wokwi-sch-async.png)
+
 Template for submitting [TinyTapeout](https://tinytapeout.com) based projects to the [Open MPW shuttle](https://developers.google.com/silicon) program.
 
 ## Usage
